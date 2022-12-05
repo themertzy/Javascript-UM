@@ -1,3 +1,3 @@
 # Javascript-UM
-###### An ever expanding package of useful Javascript methods.
+#### An ever expanding package of useful Javascript methods.
 -------------------------------------------------------------------------------------
