@@ -7,3 +7,4 @@
 
 #### Arrays.js
   - arrayMax(arr) - This function takes an array as an argument and returns the maximum number in the array. Note that this function takes an array of numbers.
+  - arrayMin(arr) - This function takes an array as an argument and returns the minimum (lowest) number in the array. Note that this function takes an array of numbers.
