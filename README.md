@@ -3,5 +3,5 @@
 -------------------------------------------------------------------------------------
 
 ##### Data-Types.js
-  isArray() - Returns true when the passed parameter is an array. Returns false otherwise.
+ - isArray() - Returns true when the passed parameter is an array. Returns false otherwise.
 
