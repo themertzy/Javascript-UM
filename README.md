@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------------------
 
 #### Data-Types.js
- - isArray() - Returns true when the passed parameter is an array. Returns false otherwise.
+ - isArray(x) - Returns true when the passed parameter is an array. Returns false otherwise.
 
 #### Arrays.js
   - arrayMax(arr) - This function takes an array as an argument and returns the maximum number in the array. Note that this function takes an array of numbers.
