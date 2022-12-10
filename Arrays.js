@@ -1,3 +1,7 @@
+function isArray(x) {
+  return x.constructor.toString().indexOf("Array") > -1;
+}
+
 function arrayMax(arr) {
   var len = arr.length;
   var max = -Infinity;
