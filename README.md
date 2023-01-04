@@ -12,5 +12,6 @@
   - **randomInteger(min, max)** - Returns a random integer from min up to and including max.
 
 ### Dates.js
+  - **currentDay()** - Returns the current day of the week (Sunday thru Saturday).
   - **isDateObj(myDate)** - Returns true if the code passed to it is a Date object. Returns false otherwise.
   - **isDateFunc(myDate)** - Returns true if the code passed to it is a Date function. Returns false otherwise.
